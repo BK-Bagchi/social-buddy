@@ -1,4 +1,10 @@
-# Social Buddy is an API-based ReactJS built web application.
-# This site calls different API for different data, organize those data, and shows us a social site shows.
-# Click on every post, detail of the post and comments on that post will be shown.
-# Post data and comment data have called from different API.
+## Used Technologies
+## ReactJS, JavaScript, Netlify, Rest-API
+# Feature
+## React based web application shows components on screen using API data. 
+## Calls different APIs, different API gives different data.
+### Manages data in client side and shows an organized view to user.
+### Based on user intercation, this project calls different API.
+## Built with ReactJS, React Router, Material-UI, Bootstrap.
+
+#### see live website here https://social-dude.netlify.app/
